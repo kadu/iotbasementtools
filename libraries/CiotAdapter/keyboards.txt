@@ -1,0 +1,5 @@
+CiotAdapter   KEYWORD1
+sendStream    KEYWORD2
+getStream     KEYWORD2
+getIpAddress  KEYWORD2
+getMacAddress KEYWORD2
